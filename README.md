@@ -1,0 +1,18 @@
+# Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805
+inject a root exploit as a silent installation to perform a malicious task on the device. 
+
+# Vulnerability
+
+AndroRAT does not focus on targeting a specific
+user but rather works to acquire the confidence of the entire network. Exploits are
+used to facilitate the movement of data around a network and the uploading of
+data from any device that is reachable. It is utilized for the purpose of remotely
+managing an Android phone.
+
+# Vulnerability Description
+
+AndroRAT is a capability that can be used to inject a root exploit as a silent
+installation to perform a malicious task on the device. This AndroRAT is
+designed to exploit CVE-2015-1805, a vulnerability that was discovered and
+made public in 2016, and which enables malicious actors to compromise a variety
+of older Android devices in order to escalate their privileges.
